@@ -114,7 +114,12 @@ const content = {
         </p>
       ),
       SecondPartTitle: 'de apoio',
-      subtitle: <p>A_Definir</p>,
+      subtitle: (
+        <p>
+          Atuamos com responsabilidade para orientar e defender você em decisões
+          importantes.
+        </p>
+      ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
       alt: 'Imagem ilustrativa da Seção Início',
       ctaButtonAriaLabel:
