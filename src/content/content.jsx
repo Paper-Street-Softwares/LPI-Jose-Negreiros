@@ -62,7 +62,7 @@ export const infos = {
   ),
   expediente: (
     <div>
-      <p>A_Definir</p>
+      <p>Atendimento em regime de plantão 24h via WhatsApp</p>
       {/* <p>8h às 18h</p> */}
     </div>
   ),
@@ -304,7 +304,7 @@ const content = {
         </p>
       ),
       SecondPartTitle: '',
-      subtitle: 'A_Definir',
+      subtitle: '',
       paragraph: (
         <div>
           Atuo na advocacia com foco em oferecer soluções jurídicas claras,
