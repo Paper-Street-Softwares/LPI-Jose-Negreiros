@@ -107,13 +107,13 @@ const content = {
     },
     hero: {
       miniTag: 'ESCRITÓRIO DE ADVOCACIA EM PORTO VELHO - RO',
-      FirstPartTitle: 'Quando o problema é sério, você',
+      FirstPartTitle: 'Precisa de auxílio de um',
       DestaquePartTitle: (
         <p>
-          <span className="italic relative inline-block">precisa</span>
+          <span className="italic relative inline-block">Advogado</span>
         </p>
       ),
-      SecondPartTitle: 'de apoio',
+      SecondPartTitle: '?',
       subtitle: (
         <p>
           Atuamos com responsabilidade para orientar e defender você em decisões
