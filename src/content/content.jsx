@@ -429,7 +429,7 @@ const content = {
         question1: {
           question: 'Como posso contratar seus serviços?',
           answer:
-            'A_DefAgende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos.inir',
+            'Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos.',
         },
         question2: {
           question: 'Qual é o prazo médio para resolução de um caso?',
