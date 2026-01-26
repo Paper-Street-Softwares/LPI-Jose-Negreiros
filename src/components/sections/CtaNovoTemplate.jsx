@@ -77,6 +77,7 @@ function CtaNovoTemplate({ colorMode }) {
                 }
                 link={content.texts.links.ctaWhatsapp}
                 label={content.texts.ctaSecondary.ctaButtonText}
+                onclick={() => gtag_report_conversion()}
                 colorMode={colorMode}
               />
               <ButtonReflexo
