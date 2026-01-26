@@ -155,7 +155,6 @@ function AboutNovoTemplate({ ButtonModal, colorMode }) {
                     }
                     link={content.texts.links.ctaWhatsapp}
                     label={content.texts.hero.ctaButtonText}
-                    onclick={() => gtag_report_conversion()}
                     colorMode={colorMode}
                   />
                   <ButtonReflexo
@@ -229,7 +228,6 @@ function AboutNovoTemplate({ ButtonModal, colorMode }) {
                 }
                 link={content.texts.links.ctaWhatsapp}
                 label={content.texts.navbar.ctaButtonText}
-                onclick={() => gtag_report_conversion()}
                 colorMode={colorMode}
               />
             </div>

@@ -121,7 +121,6 @@ function FeaturesNovaTemplate({ colorMode }) {
                     }
                     link={content.texts.links.ctaWhatsapp}
                     label={content.texts.hero.ctaButtonText}
-                    onclick={() => gtag_report_conversion()}
                     colorMode={colorMode}
                     className="mt-12"
                   />
